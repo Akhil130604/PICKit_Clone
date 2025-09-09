@@ -1,0 +1,22 @@
+# MPLAB X build products
+build/
+dist/
+nbproject/private/
+*.pre
+*.p1
+*.d
+*.o
+*.i
+*.map
+*.rlf
+*.sdb
+*.mcs
+*.err
+*.[Cc]ache
+
+# MPLAB X user-specific files
+nbproject/private/
+nbproject/Makefile-local*
+
+# Other generated files
+*.stackdump
